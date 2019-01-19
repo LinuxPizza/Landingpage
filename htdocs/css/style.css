@@ -16,10 +16,10 @@ body {
 
 #logo {
 	background: url("/assets/logo.png") no-repeat;
-	background-size: auto 45px;
-  height: 45px;
+	background-size: auto 100px;
+	text-align: center;
+  height: 100px;
 	margin-top: 20px;
-  margin-left: 15%;
 }
 
 a {
