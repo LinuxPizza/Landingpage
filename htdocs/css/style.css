@@ -23,10 +23,12 @@ body {
 }
 
 .logo {
-	margin-left: auto;
-	margin-right: auto;
+	margin-left: 45%;
+	margin-right: 45%;
 	text-align: center;	
+	width: 10%;
 }
+
 
 #all-links {
 	width: 100%;
