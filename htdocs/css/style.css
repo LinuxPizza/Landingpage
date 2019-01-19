@@ -15,11 +15,9 @@ body {
 }
 
 #logo {
-	background: url("/assets/logo.png") no-repeat;
-	background-size: auto 150px;
 	text-align: center;
 	height: 150px;
-	margin-top: 50px;
+	margin-top: 5%;
 }
 
 .logo {
