@@ -18,14 +18,14 @@ body {
 	background: url("/assets/logo.png") no-repeat;
 	background-size: auto 150px;
 	text-align: center;
-  height: 150px;
+	height: 150px;
 	margin-top: 50px;
-	margin-left: auto;
-	margin-right: auto;
 }
 
 a {
        outline: 0;
+	margin-left: auto;
+	margin-right: auto;
 }
 
 #all-links {
