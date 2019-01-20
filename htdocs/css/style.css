@@ -62,7 +62,7 @@ body {
 }
 
 .link:hover {
-	color: #a33;
+	color: #FFD42A;
 }
 
 .link-text {
@@ -92,4 +92,19 @@ body {
 	width: 50%;
 	background-color: Rgba(255,255,255, 0.3);
 	border-radius: 8px;
+	padding: 8px;
+}
+
+#text-box2 {
+	font-size: 1em;
+	color: #fff;
+	font-family: "Source-Sans-Pro",sans-serif;
+	text-decoration: none;
+	text-align: left;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+	background-color: Rgba(255,255,255, 0.3);
+	border-radius: 8px;
+	padding: 8px;
 }
