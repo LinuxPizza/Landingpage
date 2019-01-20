@@ -40,6 +40,14 @@ body {
 	text-align: center;
      }
 
+#footer {
+	width: 30%;
+	text-align: right;
+	position: absolute;
+	bottom: 5%;
+	right: 5%;
+     }
+
 .img-link {
   height: 100px;
   width: 100px;
@@ -66,3 +74,22 @@ body {
     margin: 30px;
 }
 
+.footer-text {
+	font-size: 1em;
+	color: #fff;
+	font-family: "Source-Sans-Pro",sans-serif;
+	text-decoration: none;
+}
+
+#text-box {
+	font-size: 1em;
+	color: #fff;
+	font-family: "Source-Sans-Pro",sans-serif;
+	text-decoration: none;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+	background-color: Rgba(255,255,255, 0.3);
+	border-radius: 8px;
+}
