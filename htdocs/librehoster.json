@@ -1,0 +1,19 @@
+{
+    "@context" : "http://schema.org",
+    "@type" : "Organization",
+    "organizationType" : "Informal collective",
+    "name" : "Linux.Pizza",
+    "tagLine" : "Free services for everyone",
+    "homeUrl" : "https://linux.pizza",
+    "logo" : "https://www.linux.pizza/assets/logo.png",
+    "description": "libre service provider",
+    "communicationLanguages": ["en", "se"],
+    "contactUrl": "https://linux.pizza/about/",
+    "privacyPolicyUrl" : "https://linux.pizza/policy/privacy",
+    "termsOfServiceUrl" : "https://linux.pizza/policy/tos",
+    "isServiceProvider" : true,
+    "foundingDate": "2018",
+    "version": "0.0.1",
+    "dateCreated": "2018-06-26T15:00:0Z",
+    "dateModified": "2019-02-24T19:36:54Z"
+}
